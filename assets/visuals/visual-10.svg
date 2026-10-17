@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <defs>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
+    <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/></filter>
+  </defs>
+  <rect width="1200" height="900" fill="#0D0B1A"/>
+  <g filter="url(#blur)">
+    <circle cx="360" cy="360" r="240" fill="#FF4D1F"/>
+    <circle cx="760" cy="300" r="260" fill="#3A5BFF"/>
+    <circle cx="640" cy="620" r="230" fill="#FF3EA5"/>
+    <circle cx="960" cy="640" r="150" fill="#C6F432"/>
+    <circle cx="220" cy="700" r="140" fill="#7A3CFF"/>
+  </g>
+  <rect width="1200" height="900" filter="url(#grain)" opacity=".14"/>
+  <text x="60" y="850" font-family="Courier New, monospace" font-size="18" fill="#FFFFFF" opacity=".75">FLUID FORMS — GENERATIVE STUDY 03</text>
+  <text x="1140" y="850" text-anchor="end" font-family="Courier New, monospace" font-size="18" fill="#FFFFFF" opacity=".75">SEED 0x2F7B</text>
+</svg>

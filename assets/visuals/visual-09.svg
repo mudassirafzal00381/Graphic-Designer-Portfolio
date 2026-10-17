@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <defs>
+    <clipPath id="cv"><rect x="430" y="110" width="420" height="620"/></clipPath>
+  </defs>
+  <rect width="1200" height="900" fill="#E9E4DA"/>
+  <ellipse cx="650" cy="760" rx="300" ry="26" fill="#000" opacity=".16"/>
+  <polygon points="398,128 430,110 430,730 398,748" fill="#132A82"/>
+  <polygon points="850,110 868,124 868,744 850,730" fill="#F5F1E6"/>
+  <rect x="430" y="110" width="420" height="620" fill="#1E3FBF"/>
+  <g clip-path="url(#cv)">
+    <circle cx="760" cy="230" r="150" fill="#FF6A3D"/>
+    <g fill="none" stroke="#F5F1E6" stroke-width="2" opacity=".55">
+      <circle cx="760" cy="230" r="190"/><circle cx="760" cy="230" r="230"/><circle cx="760" cy="230" r="270"/><circle cx="760" cy="230" r="310"/>
+    </g>
+  </g>
+  <text x="470" y="540" font-family="Georgia, serif" font-size="62" fill="#F5F1E6">The Shape</text>
+  <text x="470" y="610" font-family="Georgia, serif" font-style="italic" font-size="62" fill="#F5F1E6">of Silence</text>
+  <text x="470" y="690" font-family="Arial, sans-serif" font-size="16" letter-spacing="8" fill="#F5F1E6">N. RAHIM — A NOVEL</text>
+  <text x="60" y="850" font-family="Courier New, monospace" font-size="18" fill="#6e6a62">BOOK COVER — HARDBACK / 140 × 210 MM</text>
+</svg>

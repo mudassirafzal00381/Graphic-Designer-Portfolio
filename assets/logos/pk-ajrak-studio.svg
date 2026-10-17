@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <pattern id="tri" width="24" height="20" patternUnits="userSpaceOnUse"><path d="M0 20 L12 2 L24 20 Z" fill="#1B2A6B"/></pattern>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="11" cy="11" r="2.6" fill="#F4EDE0"/></pattern>
+  </defs>
+  <rect width="800" height="800" fill="#7A0E16"/>
+  <rect x="0" y="30" width="800" height="20" fill="url(#tri)"/>
+  <rect x="0" y="750" width="800" height="20" fill="url(#tri)" transform="rotate(180 400 760)"/>
+  <rect x="0" y="56" width="800" height="3" fill="#F2C14E"/>
+  <rect x="0" y="741" width="800" height="3" fill="#F2C14E"/>
+  <g transform="translate(400 300)">
+    <rect x="-150" y="-150" width="300" height="300" fill="#1B2A6B" transform="rotate(45)"/>
+    <rect x="-150" y="-150" width="300" height="300" fill="url(#dots)" transform="rotate(45)" opacity=".5"/>
+    <rect x="-150" y="-150" width="300" height="300" fill="none" stroke="#F2C14E" stroke-width="5" transform="rotate(45)"/>
+    <rect x="-82" y="-82" width="164" height="164" fill="#7A0E16"/>
+    <rect x="-82" y="-82" width="164" height="164" fill="#7A0E16" transform="rotate(45)"/>
+    <rect x="-82" y="-82" width="164" height="164" fill="none" stroke="#F4EDE0" stroke-width="4"/>
+    <rect x="-82" y="-82" width="164" height="164" fill="none" stroke="#F4EDE0" stroke-width="4" transform="rotate(45)"/>
+    <circle r="54" fill="#F4EDE0"/>
+    <g fill="#7A0E16">
+      <circle cy="-30" r="14"/><circle cx="30" r="14"/><circle cy="30" r="14"/><circle cx="-30" r="14"/>
+    </g>
+    <circle r="12" fill="#1B2A6B"/>
+    <g fill="#F2C14E"><circle cy="-170" r="10"/><circle cx="170" r="10"/><circle cy="170" r="10"/><circle cx="-170" r="10"/></g>
+  </g>
+  <text x="400" y="590" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="96" letter-spacing="26" fill="#F4EDE0">AJRAK</text>
+  <text x="400" y="645" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="22" letter-spacing="14" fill="#F2C14E">BLOCK-PRINT STUDIO · SINDH</text>
+</svg>

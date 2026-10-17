@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <pattern id="kashi" width="44" height="44" patternUnits="userSpaceOnUse">
+      <rect width="44" height="44" fill="#FFFFFF"/>
+      <g transform="translate(22 22)" fill="#2BA3C4">
+        <ellipse cy="-10" rx="5" ry="10"/><ellipse cy="10" rx="5" ry="10"/><ellipse cx="-10" rx="10" ry="5"/><ellipse cx="10" rx="10" ry="5"/>
+      </g>
+      <circle cx="22" cy="22" r="4" fill="#0F3D7A"/>
+      <g fill="#0F3D7A"><circle r="3"/><circle cx="44" r="3"/><circle cy="44" r="3"/><circle cx="44" cy="44" r="3"/></g>
+    </pattern>
+    <clipPath id="arch"><path d="M290 470 V300 C290 225 340 175 400 136 C460 175 510 225 510 300 V470 Z"/></clipPath>
+  </defs>
+  <rect width="800" height="800" fill="#0F3D7A"/>
+  <path d="M262 482 V296 C262 210 320 152 400 104 C480 152 538 210 538 296 V482 Z" fill="#F2C14E"/>
+  <path d="M276 482 V298 C276 218 330 164 400 120 C470 164 524 218 524 298 V482 Z" fill="#0F3D7A"/>
+  <rect x="280" y="130" width="240" height="350" fill="url(#kashi)" clip-path="url(#arch)"/>
+  <path d="M290 470 V300 C290 225 340 175 400 136 C460 175 510 225 510 300 V470 Z" fill="none" stroke="#0F3D7A" stroke-width="6"/>
+  <circle cx="400" cy="92" r="12" fill="#F2C14E"/>
+  <rect x="240" y="470" width="320" height="22" rx="4" fill="#F2C14E"/>
+  <text x="400" y="590" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="78" letter-spacing="14" fill="#FFFFFF">MULTANI</text>
+  <text x="400" y="645" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="38" letter-spacing="8" fill="#F2C14E">MITHAI GHAR</text>
+  <text x="400" y="698" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" letter-spacing="10" fill="#9FD3E6">SOHAN HALWA · SINCE 1965</text>
+</svg>

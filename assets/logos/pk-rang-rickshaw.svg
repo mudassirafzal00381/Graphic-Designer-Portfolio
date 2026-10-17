@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#FFD400"/>
+  <g stroke="#111" stroke-width="10" stroke-linecap="round">
+    <line x1="90" y1="250" x2="190" y2="250"/><line x1="60" y1="300" x2="200" y2="300"/><line x1="100" y1="350" x2="190" y2="350"/>
+  </g>
+  <!-- rickshaw -->
+  <path d="M230 160 Q240 120 300 116 H520 L560 160 Z" fill="#111"/>
+  <g fill="#E8336D"><rect x="250" y="146" width="20" height="10"/><rect x="290" y="146" width="20" height="10"/><rect x="330" y="146" width="20" height="10"/><rect x="370" y="146" width="20" height="10"/><rect x="410" y="146" width="20" height="10"/><rect x="450" y="146" width="20" height="10"/><rect x="490" y="146" width="20" height="10"/></g>
+  <path d="M220 160 H560 L620 300 Q628 340 600 360 H220 Q200 360 200 340 V180 Q200 160 220 160 Z" fill="#0B8A4D"/>
+  <path d="M480 175 H545 L590 285 H480 Z" fill="#BDEBFF"/>
+  <path d="M230 175 H460 V285 H230 Z" fill="#086B3C"/>
+  <path d="M232 230 H458" stroke="#FFD400" stroke-width="6" stroke-dasharray="14 10"/>
+  <g fill="#E8336D"><circle cx="270" cy="320" r="10"/><circle cx="310" cy="320" r="10"/><circle cx="350" cy="320" r="10"/><circle cx="390" cy="320" r="10"/></g>
+  <circle cx="612" cy="318" r="14" fill="#FFF7C2" stroke="#111" stroke-width="4"/>
+  <rect x="200" y="356" width="420" height="14" rx="7" fill="#111"/>
+  <circle cx="290" cy="378" r="48" fill="#111"/><circle cx="290" cy="378" r="18" fill="#FFFFFF"/>
+  <circle cx="560" cy="378" r="48" fill="#111"/><circle cx="560" cy="378" r="18" fill="#FFFFFF"/>
+  <text x="400" y="575" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-style="italic" font-size="124" fill="#111">RANG</text>
+  <rect x="190" y="600" width="420" height="58" fill="#E8336D" transform="skewX(-12) translate(130 0)"/>
+  <text x="400" y="642" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-style="italic" font-size="40" letter-spacing="10" fill="#FFFFFF">RICKSHAW</text>
+  <text x="400" y="712" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="20" letter-spacing="10" fill="#111">RIDE · DELIVER · SMILE</text>
+</svg>

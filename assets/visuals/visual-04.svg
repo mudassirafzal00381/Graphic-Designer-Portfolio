@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8A4C"/><stop offset="1" stop-color="#FF3E8E"/></linearGradient>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6B8BFF"/><stop offset="1" stop-color="#3A2BD9"/></linearGradient>
+    <linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#D9FF5A"/><stop offset="1" stop-color="#18D2C3"/></linearGradient>
+    <linearGradient id="d" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFD84D"/><stop offset="1" stop-color="#FF7A1F"/></linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="#0F0F14"/>
+  <text x="110" y="140" font-family="Courier New, monospace" font-size="20" fill="#77778a">ICON SYSTEM — 8 / 64 · 24PX GRID · 2PX STROKE</text>
+  <g fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(110 230)"><rect width="200" height="200" rx="46" fill="url(#a)" stroke="none"/><rect x="45" y="65" width="110" height="80" rx="14"/><circle cx="100" cy="105" r="22"/></g>
+    <g transform="translate(370 230)"><rect width="200" height="200" rx="46" fill="url(#b)" stroke="none"/><path d="M85 135 V60 L140 50 V120"/><circle cx="72" cy="136" r="14" fill="#fff"/><circle cx="127" cy="122" r="14" fill="#fff"/></g>
+    <g transform="translate(630 230)"><rect width="200" height="200" rx="46" fill="url(#c)" stroke="none"/><path d="M50 60 H150 V125 H95 L70 148 V125 H50 Z" stroke="#111"/></g>
+    <g transform="translate(890 230)"><rect width="200" height="200" rx="46" fill="url(#d)" stroke="none"/><path d="M100 152 C 60 110 60 95 60 85 a40 40 0 0 1 80 0 c0 10 0 25 -40 67 Z"/><circle cx="100" cy="85" r="12"/></g>
+    <g transform="translate(110 490)"><rect width="200" height="200" rx="46" fill="url(#c)" stroke="none"/><g stroke="#111"><rect x="48" y="58" width="104" height="94" rx="12"/><path d="M48 88 H152 M78 46 V68 M122 46 V68"/></g></g>
+    <g transform="translate(370 490)"><rect width="200" height="200" rx="46" fill="url(#d)" stroke="none"/><path d="M110 45 L65 110 H100 L90 155 L135 90 H100 Z"/></g>
+    <g transform="translate(630 490)"><rect width="200" height="200" rx="46" fill="url(#a)" stroke="none"/><path d="M65 140 H140 a28 28 0 0 0 0 -56 a40 40 0 0 0 -76 8 a24 24 0 0 0 1 48 Z"/></g>
+    <g transform="translate(890 490)"><rect width="200" height="200" rx="46" fill="url(#b)" stroke="none"/><path d="M100 148 C 40 105 45 60 75 58 C 90 57 100 70 100 80 C 100 70 110 57 125 58 C 155 60 160 105 100 148 Z"/></g>
+  </g>
+  <text x="110" y="790" font-family="Arial, sans-serif" font-weight="700" font-size="30" fill="#FFFFFF">Rounded, friendly, built on one geometry.</text>
+</svg>

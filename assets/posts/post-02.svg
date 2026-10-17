@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C6F432"/>
+      <stop offset="1" stop-color="#18D2C3"/>
+    </linearGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M60 0H0V60" fill="none" stroke="#1F1F1F" stroke-width="2"/></pattern>
+  </defs>
+  <rect width="1080" height="1350" fill="#0C0C0C"/>
+  <rect width="1080" height="1350" fill="url(#grid)"/>
+  <text x="70" y="140" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="48" fill="#FFFFFF">DROP 01</text>
+  <text x="1010" y="140" text-anchor="end" font-family="Courier New, monospace" font-size="26" fill="#C6F432">LIMITED RUN — 500 PAIRS</text>
+  <text x="540" y="470" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="330" fill="none" stroke="#C6F432" stroke-width="4">AIR</text>
+  <ellipse cx="540" cy="720" rx="400" ry="170" fill="url(#g)" transform="rotate(-12 540 720)"/>
+  <g transform="rotate(-8 560 720)">
+    <path d="M240 790 C 250 670 330 630 400 640 L 470 570 C 500 550 540 560 560 590 L 640 670 C 700 720 800 720 860 750 C 900 770 900 810 880 830 L 240 830 Z" fill="#F5F5F0"/>
+    <path d="M220 830 H900 C 910 860 890 880 860 880 H260 C 230 880 215 860 220 830 Z" fill="#111"/>
+    <rect x="240" y="848" width="640" height="6" fill="#C6F432"/>
+    <path d="M330 740 C 450 728 610 752 790 776" fill="none" stroke="#111" stroke-width="16" stroke-linecap="round"/>
+    <g stroke="#111" stroke-width="7" stroke-linecap="round">
+      <line x1="485" y1="595" x2="520" y2="620"/><line x1="505" y1="615" x2="540" y2="640"/><line x1="525" y1="635" x2="560" y2="660"/>
+    </g>
+  </g>
+  <text x="70" y="1150" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="150" fill="#FFFFFF">10.24</text>
+  <text x="74" y="1212" font-family="Courier New, monospace" font-size="28" fill="#C6F432">10:00 AM · ONLINE ONLY</text>
+  <circle cx="900" cy="1110" r="110" fill="#C6F432"/>
+  <text x="900" y="1128" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="54" fill="#0C0C0C">$189</text>
+</svg>

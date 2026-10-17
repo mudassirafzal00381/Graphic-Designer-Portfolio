@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#F3E7D3"/>
+  <circle cx="400" cy="300" r="205" fill="#E7D3B2"/>
+  <circle cx="400" cy="300" r="190" fill="none" stroke="#3B2314" stroke-width="2"/>
+  <g transform="rotate(-24 400 300)">
+    <path d="M400 130 C 478 130 488 220 478 285 C 470 335 478 380 468 425 C 456 468 344 468 332 425 C 322 380 330 335 322 285 C 312 220 322 130 400 130 Z" fill="#6A3B1F"/>
+    <path d="M400 146 C 464 146 472 222 463 284 C 455 334 462 378 453 420 C 443 450 357 450 347 420 C 338 378 345 334 337 284 C 328 222 336 146 400 146 Z" fill="none" stroke="#D9A45B" stroke-width="3" stroke-dasharray="7 6"/>
+    <path d="M326 215 Q400 262 474 215 L480 262 Q400 312 320 262 Z" fill="#A65A2A"/>
+    <path d="M326 238 Q400 282 476 238" fill="none" stroke="#F3E7D3" stroke-width="3" stroke-dasharray="6 6"/>
+    <path d="M330 300 L470 360 L466 392 L326 332 Z" fill="#A65A2A"/>
+    <path d="M470 300 L330 360 L334 392 L474 332 Z" fill="#8B4A22"/>
+    <circle cx="400" cy="346" r="15" fill="#D9A45B"/>
+    <circle cx="400" cy="346" r="6" fill="#6A3B1F"/>
+  </g>
+  <text x="400" y="590" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="74" letter-spacing="12" fill="#3B2314">PESHAWARI</text>
+  <rect x="190" y="612" width="420" height="2" fill="#B07A3B"/>
+  <text x="400" y="655" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="22" letter-spacing="14" fill="#B07A3B">CHAPPAL CO.</text>
+  <text x="400" y="700" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#6A3B1F">Handstitched in Qissa Khwani</text>
+</svg>

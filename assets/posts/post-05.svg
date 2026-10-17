@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFD23F"/>
+  <text x="70" y="120" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="34" fill="#111">THE SUNNY STORE</text>
+  <g fill="none" stroke="#111" stroke-width="6" stroke-linecap="round">
+    <path d="M70 200 q 30 -24 60 0 t 60 0 t 60 0 t 60 0 t 60 0 t 60 0 t 60 0 t 60 0"/>
+    <path d="M70 240 q 30 -24 60 0 t 60 0 t 60 0 t 60 0 t 60 0 t 60 0 t 60 0 t 60 0"/>
+    <path d="M70 280 q 30 -24 60 0 t 60 0 t 60 0 t 60 0 t 60 0 t 60 0 t 60 0 t 60 0"/>
+  </g>
+  <g transform="translate(850 330) rotate(12)">
+    <circle r="140" fill="#FF4D1F"/>
+    <circle r="122" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-dasharray="6 8"/>
+    <text y="-6" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="44" fill="#FFFFFF">SUMMER</text>
+    <text y="46" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="52" fill="#FFFFFF">SALE</text>
+  </g>
+  <text x="540" y="830" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="340" letter-spacing="-18" fill="#111">-50%</text>
+  <text x="540" y="930" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="52" fill="#111">on everything that loves the sun</text>
+  <rect y="1060" width="1080" height="150" fill="#111"/>
+  <text x="540" y="1150" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="42" fill="#FFD23F">ONLY THIS WEEKEND — SHOP NOW →</text>
+  <text x="540" y="1290" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#111">*on selected items. Ends Sunday at midnight.</text>
+</svg>

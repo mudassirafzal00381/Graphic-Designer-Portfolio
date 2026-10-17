@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350">
+  <defs>
+    <radialGradient id="s" cx=".35" cy=".3" r=".75">
+      <stop offset="0" stop-color="#FFC4EA"/>
+      <stop offset=".35" stop-color="#FF7AC6"/>
+      <stop offset=".7" stop-color="#6B4CFF"/>
+      <stop offset="1" stop-color="#1A1050"/>
+    </radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="#07071C"/>
+  <g fill="none" stroke="#8F7BFF" stroke-width="2" opacity=".45">
+    <circle cx="540" cy="560" r="340"/><circle cx="540" cy="560" r="400"/><circle cx="540" cy="560" r="470"/>
+  </g>
+  <circle cx="540" cy="560" r="280" fill="url(#s)"/>
+  <ellipse cx="540" cy="560" rx="440" ry="70" fill="none" stroke="#FFFFFF" stroke-width="3" transform="rotate(-18 540 560)"/>
+  <circle cx="950" cy="420" r="12" fill="#FFD166"/>
+  <text x="70" y="120" font-family="Courier New, monospace" font-size="24" fill="#8F7BFF">ORBIT LABS PRESENTS</text>
+  <text x="1010" y="120" text-anchor="end" font-family="Courier New, monospace" font-size="24" fill="#8F7BFF">DESIGN × AI</text>
+  <text x="70" y="1010" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="140" fill="#FFFFFF">FUTURE</text>
+  <text x="70" y="1140" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="140" fill="#FFFFFF">FORWARD</text>
+  <text x="1010" y="1010" text-anchor="end" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="140" fill="none" stroke="#FF7AC6" stroke-width="3">’26</text>
+  <rect x="70" y="1190" width="940" height="2" fill="#333355"/>
+  <text x="70" y="1260" font-family="Arial, sans-serif" font-weight="700" font-size="28" letter-spacing="6" fill="#FFFFFF">NOV 12—13 · LISBON</text>
+  <text x="1010" y="1260" text-anchor="end" font-family="Arial, sans-serif" font-size="26" letter-spacing="4" fill="#FF7AC6">40 SPEAKERS · 2 DAYS</text>
+</svg>

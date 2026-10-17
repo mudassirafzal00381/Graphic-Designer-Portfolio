@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141833"/>
+      <stop offset=".5" stop-color="#5E3A6B"/>
+      <stop offset=".82" stop-color="#E9805A"/>
+      <stop offset="1" stop-color="#F9C784"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFE7A3" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#FFE7A3" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1000" fill="url(#sky)"/>
+  <g fill="#FFFFFF" opacity=".8">
+    <circle cx="120" cy="120" r="2"/><circle cx="300" cy="80" r="1.5"/><circle cx="520" cy="420" r="2"/><circle cx="880" cy="110" r="2"/><circle cx="980" cy="300" r="1.5"/><circle cx="700" cy="70" r="1.5"/><circle cx="200" cy="420" r="1.5"/>
+  </g>
+  <circle cx="760" cy="1000" r="130" fill="#FFE2A8"/>
+  <polygon points="318,615 1080,450 1080,720" fill="url(#beam)"/>
+  <rect y="1000" width="1080" height="350" fill="#0E1328"/>
+  <g fill="#F9C784" opacity=".55">
+    <rect x="660" y="1030" width="200" height="5"/><rect x="690" y="1065" width="140" height="4"/><rect x="720" y="1100" width="80" height="3"/>
+  </g>
+  <path d="M90 1010 Q 240 920 420 990 L 470 1010 Z" fill="#0A0A14"/>
+  <polygon points="252,962 328,962 314,640 266,640" fill="#0A0A14"/>
+  <rect x="262" y="598" width="56" height="42" fill="#FFE7A3"/>
+  <polygon points="252,600 328,600 290,560" fill="#0A0A14"/>
+  <text x="540" y="200" text-anchor="middle" font-family="Georgia, serif" font-size="56" letter-spacing="22" fill="#FFFFFF">THE LAST</text>
+  <text x="540" y="310" text-anchor="middle" font-family="Georgia, serif" font-size="104" letter-spacing="8" fill="#FFFFFF">LIGHTHOUSE</text>
+  <text x="540" y="372" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="34" fill="#F9C784">Some lights never go out.</text>
+  <text x="540" y="1190" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" letter-spacing="5" fill="#FFFFFF" opacity=".65">A FILM BY R. SOLEN · MUSIC BY I. HART · CINEMATOGRAPHY K. ODA</text>
+  <text x="540" y="1222" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" letter-spacing="5" fill="#FFFFFF" opacity=".65">STARRING M. VALE · J. AREN · PRODUCED BY TIDEHOUSE PICTURES</text>
+  <text x="540" y="1290" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="38" letter-spacing="8" fill="#F9C784">IN CINEMAS DECEMBER</text>
+</svg>
